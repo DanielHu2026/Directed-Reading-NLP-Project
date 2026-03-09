@@ -1,8 +1,5 @@
 # L2 Affect Gap → LBA Sensitivity (Minimal Configurable Starter)
 
-This is a **minimal** project scaffold: folders + configuration + environment setup.
-There is **no pipeline code yet**.
-
 ## What you configure
 All paths + filenames live in `configs/config.yaml`.
 
