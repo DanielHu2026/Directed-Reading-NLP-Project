@@ -6,11 +6,6 @@ There is **no pipeline code yet**.
 ## What you configure
 All paths + filenames live in `configs/config.yaml`.
 
-## Suggested next steps (when you're ready)
-1) Add pipeline modules under `src/l2affect/` (lexicon join, corpus build, features, models, stats)  
-2) Make a single command runner (`run.sh` or `Makefile`) call those steps  
-3) Add tests for config + I/O
-
 ## Quickstart
 
 ### Create environment (pip)
