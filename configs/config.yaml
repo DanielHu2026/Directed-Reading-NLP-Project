@@ -10,9 +10,7 @@ paths:
   reports_tables_dir: reports/tables
 
 inputs:
-  # Place files under data/raw/
-  l2_lexicon_file: data/raw/lexicons/imbault_l2_vad.csv
-  l1_lexicon_file: data/raw/lexicons/l1_vad.csv
+  lexicon_file: data/raw/lexicons/imbault.csv
   reddit_posts_file: data/raw/reddit/writestreaken_posts.csv
 
 lexicon_columns:
