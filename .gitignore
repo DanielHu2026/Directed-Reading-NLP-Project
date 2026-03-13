@@ -19,11 +19,6 @@ data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
-reports/figures/*
-reports/tables/*
-!reports/figures/.gitkeep
-!reports/tables/.gitkeep
-
 # Notebooks
 .ipynb_checkpoints/
 
