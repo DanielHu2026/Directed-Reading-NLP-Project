@@ -11,7 +11,8 @@ paths:
 
 inputs:
   lexicon_file: data/raw/lexicons/imbault.csv
-  reddit_posts_file: data/raw/reddit/writestreaken_posts.csv
+  writestreak_posts_jsonl_dir: data/raw/reddit/writestreak/posts
+  writestreak_comments_jsonl_dir: data/raw/reddit/writestreak/comments
 
 lexicon_columns:
   word: word
