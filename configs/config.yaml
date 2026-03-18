@@ -1,5 +1,5 @@
 project:
-  name: l2affect_lba
+  name: directed_reading_project
   random_seed: 42
 
 paths:

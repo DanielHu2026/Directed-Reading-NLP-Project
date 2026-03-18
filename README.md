@@ -25,5 +25,4 @@ python scripts/validate_setup.py --config configs/config.yaml
 - `data/raw/` : raw inputs (lexicons, reddit export) - not committed
 - `data/processed/` : derived outputs - not committed
 - `reports/figures/`, `reports/tables/` : exported artifacts for the report
-- `notebooks/` : analysis
-- `scripts/` : helper scripts (validation, download helpers, etc.)
+- `notebooks/` : main scripts and analysis
