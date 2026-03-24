@@ -22,6 +22,9 @@ data/processed/*
 # Notebooks
 .ipynb_checkpoints/
 
+# LIWC Script
+scripts/*
+
 # OS
 .DS_Store
 Thumbs.db
