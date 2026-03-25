@@ -22,7 +22,7 @@ data/processed/*
 # Notebooks
 .ipynb_checkpoints/
 
-# LIWC Script
+# LIWC Scripts
 scripts/*
 
 # OS
