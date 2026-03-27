@@ -10,7 +10,8 @@ paths:
   reports_tables_dir: reports/tables
 
 inputs:
-  lexicon_file: data/raw/lexicons/imbault.csv
+  imbault_lexicon_file: data/raw/lexicons/imbault.csv
+  NRC_lexicon_file: data/raw/lexicons/NRC-VAD-Lexicon-v2.1.txt
   writestreak_posts_jsonl_dir: data/raw/reddit/writestreak/posts
   writestreak_comments_jsonl_dir: data/raw/reddit/writestreak/comments
 
