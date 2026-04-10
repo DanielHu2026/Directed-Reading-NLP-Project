@@ -1,0 +1,9 @@
+feature,outcome,spearman_rho,p_value
+has_high_gap_word,pred_valence_1_9,-0.010428491061615957,0.3180778668881936
+has_high_gap_word,pred_arousal_1_9,-0.035615955194212054,0.0006476470713641547
+high_gap_token_count_selected,pred_valence_1_9,0.005786590251783412,0.5795834873568664
+high_gap_token_count_selected,pred_arousal_1_9,-0.07448663399210284,9.264111068638182e-13
+high_gap_token_prop_selected,pred_valence_1_9,-0.07013319180048135,1.7851860029596677e-11
+high_gap_token_prop_selected,pred_arousal_1_9,0.09078707743017662,3.0484651787406938e-18
+high_gap_type_count_selected,pred_valence_1_9,-0.001107524961588662,0.915557973280707
+high_gap_type_count_selected,pred_arousal_1_9,-0.07027849854015848,1.621848816773884e-11

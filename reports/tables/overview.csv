@@ -1,0 +1,11 @@
+metric,value
+n_posts,9168.0
+n_users,704.0
+n_posts_with_selected_high_gap_word,6482.0
+n_posts_without_selected_high_gap_word,2686.0
+share_with_selected_high_gap_word,0.7070244328097731
+mean_selected_high_gap_token_count,1.1568499127399652
+mean_selected_high_gap_token_prop,0.00819705417946044
+mean_selected_high_gap_type_count,0.9192844677137871
+mean_pred_valence_1_9,5.053743662555443
+mean_pred_arousal_1_9,4.941864432188641

@@ -1,0 +1,11 @@
+{
+  "n_posts_rerun": 6482,
+  "mean_delta_valence": -0.024938483341224504,
+  "mean_abs_delta_valence": 0.08985420202860267,
+  "mean_delta_arousal": -0.02961315188648185,
+  "mean_abs_delta_arousal": 0.08233724557639246,
+  "mask_token": "[MASK]",
+  "run_only_treated_posts": true,
+  "prediction_file": "C:\\Users\\hus44\\Code\\Directed-Reading-Project\\data\\processed\\writestreak_full_with_predictions.csv",
+  "enriched_word_file": "C:\\Users\\hus44\\Code\\Directed-Reading-Project\\data\\processed\\top30_highgap_words_mh_enriched_top5.csv"
+}

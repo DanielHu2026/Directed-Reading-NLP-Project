@@ -1,0 +1,11 @@
+{
+  "n_posts_rerun": 6482,
+  "mean_abs_delta_valence": 0.08985420202860267,
+  "median_abs_delta_valence": 0.06362232314620542,
+  "mean_abs_delta_arousal": 0.08233724557639246,
+  "median_abs_delta_arousal": 0.05940997351327537,
+  "mean_delta_affect_shift_mag": 0.13519210343215027,
+  "median_delta_affect_shift_mag": 0.10689883055718016,
+  "mean_signed_delta_valence": -0.024938483341224504,
+  "mean_signed_delta_arousal": -0.02961315188648185
+}
